@@ -18,7 +18,7 @@ __copyright__ = 'Copyright 2016 Mercurious'
     I.e. after sundown, before sunrise.
 
 
-    NZST (NZ Standard time) is +1200 UTC ((UTC is also GMT?))
+    NZST (NZ Standard time) is +1200 UTC (UTC is also GMT?)
 
 
     KP Index
